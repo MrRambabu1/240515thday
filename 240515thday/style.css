@@ -1,0 +1,54 @@
+img {
+    width: 130px;
+    height: 700px;
+    object-fit: cover;
+    margin: -2px;
+}
+
+#captain {
+    object-position: 80% 10%;
+}
+
+#ant {
+    object-position: 30% 10%;
+}
+
+#groot {
+    object-position: 50% 10%;
+}
+
+#haw {
+    object-position: 50% 10%;
+}
+
+#hulk {
+    object-position: 40% 10%;
+}
+
+#iron {
+    object-position: 50% 10%;
+}
+
+#nat {
+    object-position: 30% 0%;
+}
+
+#spider {
+    object-position: 50% 0%;
+}
+
+#thor {
+    object-position: 30% 10%;
+}
+
+#war {
+    object-position: 50% 10%;
+}
+
+#won {
+    object-position: 70% 10%;
+}
+
+body {
+    background-color: black;
+}

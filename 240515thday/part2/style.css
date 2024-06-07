@@ -1,0 +1,35 @@
+span {
+    color: #ff9999;
+    background-color: rgba(222, 222, 222, 0.1);
+}
+
+div {
+    background-color: #1d2a35;
+    color: white;
+}
+
+img {
+    height: 400px;
+    width: 1400px;
+    background-color: #1d2a35;
+}
+
+#fill {
+    object-fit: fill;
+}
+
+#contain {
+    object-fit: contain;
+}
+
+#cover {
+    object-fit: cover;
+}
+
+#none {
+    object-fit: none;
+}
+
+#scale-down {
+    object-fit: scale-down;
+}
